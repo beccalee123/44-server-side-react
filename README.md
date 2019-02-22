@@ -7,7 +7,6 @@
 
 ### Links and Resources
 * [repo](https://github.com/beccalee123/44-server-side-react)
-* [deployed site]()
 
 ### SRC Modules
 - `pages/index.js` renders the index page
